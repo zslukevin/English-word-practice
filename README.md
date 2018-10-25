@@ -1,4 +1,5 @@
-# high-school-words
+# High school English word practice
+
 因儿子练习单词需要，又怕玩游戏限制使用电脑，所以使用python3+qt5制作了一个能生成PDF格式高中（人教版）指定单元单词练习内容的小工具，可同时生成答案。比较简陋，个人觉得还实用，分享一下了。</br></br>
 <b>更新记录：</b></br>
 2018.10.23</br>
